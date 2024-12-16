@@ -24,7 +24,10 @@ h1 {
     text-align: center;
     border: none;
     border-radius: 5px;
-    padding: 25px;
+    padding-top: 25px;
+    padding-bottom: 20px;
+    padding-right: 25px;
+    padding-left: 25px;
     background-color: #080001; 
     font-size: 50px; 
     width: 70px;
